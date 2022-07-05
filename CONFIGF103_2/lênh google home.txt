@@ -1,0 +1,22 @@
+https://ifttt.com/
+tài khoản
+nguoidungblynk2@gmail.com
+@Aa123456789
+
+
+google => webho
+bật đèn phòng khách:
+ turn on the living room light
+https://128.199.144.129/external/api/update?token=yB7DSMINyKKDxIfvON8NFqV-qpcIPmX3&v1=1
+
+tắt đèn phòng khách:
+ turn off the living room light
+https://128.199.144.129/external/api/update?token=yB7DSMINyKKDxIfvON8NFqV-qpcIPmX3&v1=0
+//==================================
+bật đèn phòng ngủ
+turn on the bedroom light
+https://128.199.144.129/external/api/update?token=yB7DSMINyKKDxIfvON8NFqV-qpcIPmX3&v2=1
+
+tắt đèn phòng ngủ
+turn off the bedroom lights
+https://128.199.144.129/external/api/update?token=yB7DSMINyKKDxIfvON8NFqV-qpcIPmX3&v2=0
